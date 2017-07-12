@@ -1,5 +1,5 @@
 #Benjamin Burke
-#Solution in C++ to "Spiral Ascension" r/dailyprogrammer prompt
+#Solution in Python to "Spiral Ascension" r/dailyprogrammer prompt
 #Prompt: https://reddit.com/r/dailyprogrammer/comments/6i60lr/20170619_challenge_320_easy_spiral_ascension/
 
 from math import log10
